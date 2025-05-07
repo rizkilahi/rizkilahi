@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm rizkilahi👋
+
+![rizkilahi](img/rizkilahi_banner.png)
 
 <!--
 **rizkilahi/rizkilahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying at [**Telkom University**](https://www.instagram.com/telkomuniversity/)
+- 🌱 I’m currently learning **Mechine Learning**
