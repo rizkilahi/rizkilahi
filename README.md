@@ -1,6 +1,6 @@
 ## Hello World! I'm rizkilahi👋
 
-![rizkilahi](img/rizkilahi_banner.png)
+![rizkilahi](img/rizkilahi_banner.jpg)
 
 <!--
 **rizkilahi/rizkilahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
