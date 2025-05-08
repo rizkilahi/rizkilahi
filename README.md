@@ -1,7 +1,7 @@
 ## Hello World! 🌏
 
 <div align="center">
-  <img src="img/rizkilahi_banner_1.png" alt="rizkilahi" width="800"/>
+  <img src="img/rizkilahi_banner_1.png" alt="rizkilahi"/>
 </div>
 
 <!--
