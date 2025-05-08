@@ -1,6 +1,8 @@
 ## Hello World! 🌏
 
-![rizkilahi](img/rizkilahi_banner_1.png)
+<div align="center">
+  <img src="img/rizkilahi_banner_1.png" alt="rizkilahi" width="800"/>
+</div>
 
 <!--
 **rizkilahi/rizkilahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,24 +71,29 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkilahi&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkilahi&layout=compact" alt="Top Langs"/>
+</div>
 
 ---
 
 ### 🎮 Play Game
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/pacman-contribution-graph.svg">
-</picture>
-
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/pacman-contribution-graph.svg">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ---
 
 ### 🐍 Snake Contribution Animation
 
-<img src="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -105,6 +112,9 @@ I'm always open to new ideas, collaborations, or just a friendly chat about tech
 </a>
 <a href="https://youtube.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+</a>
+<a href="https://t.me/rizkilahi" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
 </a>
 
 ---
