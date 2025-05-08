@@ -30,13 +30,40 @@ Here are some ideas to get you started:
 
 ### 🛠️ Skills
 
-[![language](https://skillicons.dev/icons?i=html,css,js,php,laravel,python,cpp,java,spring,flutter&perline=5)](https://skillicons.dev)
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" /></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /></a>
+</p>
+<p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" /></a>
+</p>
 
 ---
 
 ### ⚙️ Tools I Use
 
-![chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![w3s](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![collab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+<p align="left">
+  <a href="https://openai.com/chatgpt" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  </a>
+  <a href="https://www.w3schools.com/" target="_blank">
+    <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="W3Schools" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" />
+  </a>
+</p>
+
 
 ---
 
@@ -51,8 +78,9 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/pacman-contribution-graph.svg">
 </picture>
+
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizkilahi/rizkilahi/output/pacman-contribution-graph.svg">
 
 ---
 
