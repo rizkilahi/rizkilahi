@@ -123,11 +123,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Current Projects & Achievements
 
-<div align="center">
-
 ### 💼 What I'm Working On
-
-</div>
 
 - 🔬 **AI Research Project**: Developing machine learning models for predictive analytics
 - 📱 **Mobile App**: Building a cross-platform app with Flutter and Firebase
@@ -268,13 +264,13 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-<a href="https://youtube.com" target="_blank">
+<a href="https://www.youtube.com/@sambilmain21" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 <a href="https://t.me/rizkilahi" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:muhamadrizkiilahi03@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
@@ -282,7 +278,7 @@ Here are some ideas to get you started:
 ### 💬 Quick Contact
 
 ```
-📧 Email: your.email@example.com
+📧 Email: muhamadrizkiilahi03@gmail.com
 💼 LinkedIn: Muhamad Rizki Ilahi
 🐦 Response Time: Usually within 24 hours
 ```
