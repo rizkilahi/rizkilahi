@@ -1,27 +1,12 @@
 # Hello World! 🌏
 
-<div align=## 👨‍🎓 About Me
 
-<div align="center">
-
-**🎓 Computer Science Student | 💻 Full Stack Developer | 🤖 AI Enthusiast**
-
-</div>
-
-- 🔭 Currently studying **Computer Science** at [**Telkom University**](https://www.instagram.com/telkomuniversity/)
-- 🌱 Learning **Machine Learning**, **Deep Learning**, and **Cyber Security**
-- 💼 Building projects with **Laravel**, **React**, **Flutter**, and **Python**
-- 🎯 Focused on **Web Development**, **Mobile Apps**, and **AI/ML** applications
-- 💬 Ask me about **Full Stack Development**, **AI/ML**, **Mobile Development**, or **Cyber Security**
-- 🌟 Always excited to collaborate on innovative projects
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I love exploring new technologies and building solutions that make a difference!
 
 <div align="center">
   
 **"Code is like humor. When you have to explain it, it's bad." - Cory House**
 
-</div>r">
+</div>
   <img src="img/rizkilahi_banner_1.png" alt="Muhamad Rizki Ilahi - Software Developer" width="100%" style="border-radius: 10px;"/>
 </div>
 
@@ -53,10 +38,22 @@ Here are some ideas to get you started:
 
 ### 👨‍🎓 About Me
 
-- 🔭 I’m currently studying at [**Telkom University**](https://www.instagram.com/telkomuniversity/)
-- 🌱 I’m currently learning **Machine Learning** and exploring more about **Cyber Security**
-- 💬 Ask me about **web development**, **AI**, or anything related to **tech**
-- 😄 Pronouns: he/him
+<div align=## 👨‍🎓 About Me
+
+<div align="center">
+
+**🎓 Information Technology Student | 💻 Full Stack Developer | 🤖 AI Enthusiast**
+
+</div>
+
+- 🔭 Currently studying **Information Technology** at [**Telkom University**](https://www.instagram.com/telkomuniversity/)
+- 🌱 Learning **Machine Learning**, **Deep Learning**, and **Cyber Security**
+- 💼 Building projects with **Laravel**, **React**, **Flutter**, and **Python**
+- 🎯 Focused on **Web Development**, **Mobile Apps**, and **AI/ML** applications
+- 💬 Ask me about **Full Stack Development**, **AI/ML**, **Mobile Development**, or **Cyber Security**
+- 🌟 Always excited to collaborate on innovative projects
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: I love exploring new technologies and building solutions that make a difference!
 
 ---
 
@@ -140,7 +137,7 @@ Here are some ideas to get you started:
 
 ### 🏆 Achievements & Certifications
 
-- 🎯 **Academic Excellence**: Maintaining high GPA in Computer Science program
+- 🎯 **Academic Excellence**: Maintaining high GPA in Information Technology program
 - 🏅 **Programming Competitions**: Participated in various coding competitions
 - 📜 **Online Courses**: Completed courses in Machine Learning, Web Development, and Cybersecurity
 - 🤝 **Community Involvement**: Active member of tech communities and study groups
