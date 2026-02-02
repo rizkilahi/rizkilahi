@@ -177,6 +177,12 @@ Here are some ideas to get you started:
 
 📅 September 2025 – September 2027
 
+🆔 **Credential ID**: JGBE-4wBC
+
+<a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=455&cvid=pirFMy2BNzgQF68RdY4tqw==" target="_blank">
+  <img src="https://img.shields.io/badge/Verify-Credential-success?style=flat-square" alt="Verify"/>
+</a>
+
 </td>
 <td align="center" width="50%">
 
@@ -185,6 +191,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 
 📅 June 2025 – June 2027
+
+🆔 **Credential ID**: c5efcfba-6ec3-4407-8287-1be88465f351
+
+<a href="https://www.credly.com/badges/c5efcfba-6ec3-4407-8287-1be88465f351/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/Verify-Credential-success?style=flat-square" alt="Verify"/>
+</a>
 
 </td>
 </tr>
@@ -197,6 +209,12 @@ Here are some ideas to get you started:
 
 📅 June 2025 – June 2027
 
+🆔 **Credential ID**: d037e7bb-7240-41dd-a956-909cd309bba1
+
+<a href="https://www.credly.com/badges/d037e7bb-7240-41dd-a956-909cd309bba1/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/Verify-Credential-success?style=flat-square" alt="Verify"/>
+</a>
+
 </td>
 <td align="center" width="50%">
 
@@ -205,6 +223,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Coding_Studio-00B4D8?style=for-the-badge&logo=security&logoColor=white" alt="Coding Studio"/>
 
 📅 June 2024 – June 2026
+
+🆔 **Credential ID**: 75AF704A93-75AF60B904-75A384FC96
+
+<a href="https://member.codingstudio.id/certificate/75AF704A93-75AF60B904-75A384FC96" target="_blank">
+  <img src="https://img.shields.io/badge/Verify-Credential-success?style=flat-square" alt="Verify"/>
+</a>
 
 </td>
 </tr>
