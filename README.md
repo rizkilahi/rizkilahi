@@ -1,7 +1,5 @@
 # Hello World! 🌏
 
-
-
 <div align="center">
   
 **"Code is like humor. When you have to explain it, it's bad." - Cory House**
@@ -42,16 +40,18 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-**🎓 Information Technology Student | 💻 Full Stack Developer | 🤖 AI Enthusiast**
+**🎓 Fresh Graduate in Information Technology | 💻 Full Stack Developer | 🤖 AI Enthusiast**
 
 </div>
 
-- 🔭 Currently studying **Information Technology** at [**Telkom University**](https://www.instagram.com/telkomuniversity/)
-- 🌱 Learning **Machine Learning**, **Deep Learning**, and **Cyber Security**
-- 💼 Building projects with **Laravel**, **React**, **Flutter**, and **Python**
-- 🎯 Focused on **Web Development**, **Mobile Apps**, and **AI/ML** applications
+- 🎓 Fresh Graduate in **Information Technology** from [**Telkom University**](https://www.instagram.com/telkomuniversity/)
+- 💼 Open to opportunities in **Full Stack Development**, **AI/ML Engineering**, and **Software Development**
+- 🌱 Continuously learning **Machine Learning**, **Deep Learning**, and **Cyber Security**
+- 💻 Experienced in building projects with **Laravel**, **React**, **Flutter**, and **Python**
+- 🎯 Specializing in **Web Development**, **Mobile Apps**, and **AI/ML** applications
 - 💬 Ask me about **Full Stack Development**, **AI/ML**, **Mobile Development**, or **Cyber Security**
-- 🌟 Always excited to collaborate on innovative projects
+- 🌟 Eager to contribute to innovative projects and collaborate with talented teams
+- 🚀 Ready to bring fresh perspectives and strong technical skills to your organization
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I love exploring new technologies and building solutions that make a difference!
 
@@ -131,12 +131,106 @@ Here are some ideas to get you started:
 - 🛡️ **Cybersecurity Tool**: Developing security analysis tools for vulnerability assessment
 - 📚 **Open Source**: Contributing to various open-source projects in the tech community
 
-### 🏆 Achievements & Certifications
+### 📝 Published Research
 
-- 🎯 **Academic Excellence**: Maintaining high GPA in Information Technology program
-- 🏅 **Programming Competitions**: Participated in various coding competitions
-- 📜 **Online Courses**: Completed courses in Machine Learning, Web Development, and Cybersecurity
-- 🤝 **Community Involvement**: Active member of tech communities and study groups
+#### **R-CICIDS2017: Making the IDS Benchmark Realistic for Quantized Models in IoT Deployments**
+
+- 📄 **Published in**: IEEE (2025)
+- 👥 **Authors**: Muhamad Rizki Ilahi et al.
+- 🔬 **Focus**: Network Security & IoT
+- 📊 **Contribution**: Developed a novel realistic dataset and optimized Dynamically Quantized DNN model (14.9 KB) for lightweight Intrusion Detection Systems on IoT edge devices
+- 🎯 **Achievement**: High accuracy with minimal computational complexity for resource-constrained IoT environments
+- 🔗 **Status**: Published in IEEE Conference Proceedings
+
+### 🏆 Awards & Scholarships
+
+- 🏅 **BSI Scholarship Inspirasi Batch 3 Awardee** (November 2023 – November 2025)
+  - Selected for academic excellence and leadership potential
+  - Completed intensive development program covering Islamic Economics, personal development, and professional ethics
+  - Led Community Service initiatives focused on social impact and local community empowerment
+
+### 🎓 Academic & Professional Achievements
+
+- 🎓 **Graduated**: Bachelor's Degree in Information Technology from Telkom University (2026)
+  - Specialization: Network Security
+- 🎯 **Research Publication**: Published paper in IEEE on IoT security and lightweight intrusion detection
+- 💼 **Teaching Experience**: Coding instructor at Kalananti by Ruangguru (July 2025 – Present)
+- 🔬 **Research Internship**: IT Research Intern at Forestry Laboratory, Telkom University
+- 🤝 **Community Leadership**: Event organizer and mentor for various university organizations
+- 💼 **Portfolio Projects**: Successfully delivered multiple full-stack applications and AI/ML projects
+
+---
+
+## 🎖️ Professional Certifications
+
+<div align="center">
+
+### Cloud Computing & AI
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Microsoft Certified: Azure AI Fundamentals**
+
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
+
+📅 September 2025 – September 2027
+
+</td>
+<td align="center" width="50%">
+
+**AWS Academy Cloud Web Application Builder**
+
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+
+📅 June 2025 – June 2027
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**AWS Cloud Foundations**
+
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+
+📅 June 2025 – June 2027
+
+</td>
+<td align="center" width="50%">
+
+**Fundamental Cyber Security**
+
+<img src="https://img.shields.io/badge/Coding_Studio-00B4D8?style=for-the-badge&logo=security&logoColor=white" alt="Coding Studio"/>
+
+📅 June 2024 – June 2026
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**Microsoft Word with Copilot Training Certificate**
+
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
+
+📅 January 2026 – January 2028
+
+_Issued by Jobstreet_
+
+</td>
+</tr>
+</table>
+
+### 🌟 Certification Highlights
+
+- ☁️ **Cloud Computing**: Expertise in AWS and Microsoft Azure platforms
+- 🤖 **Artificial Intelligence**: Certified in Azure AI Fundamentals
+- 🔒 **Cybersecurity**: Foundation certification in cybersecurity principles
+- 💼 **Professional Tools**: Microsoft productivity tools with AI integration
+
+</div>
 
 ---
 
@@ -297,6 +391,8 @@ Here are some ideas to get you started:
 
 **Thank you for visiting my profile! 🚀**
 
-_Last updated: July 2025_
+💼 **Currently seeking opportunities as a Full Stack Developer, Software Engineer, or AI/ML Engineer**
+
+_Last updated: February 2026_
 
 </div>
